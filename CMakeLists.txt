@@ -3,4 +3,4 @@ project(dasr_second_first)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(dasr_second_first main.cpp)
+add_executable(dasr_second_first main.cpp Date.cpp)
